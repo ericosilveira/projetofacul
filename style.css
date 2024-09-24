@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin: 5%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  border: 2px solid orangered;
+  border-radius: 10px;
+  padding: 20px;
+  background: url(https://irp-cdn.multiscreensite.com/db973729/dms3rep/multi/Don+Brabearia+AlphaMAll+Unidade+2.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+h2 {
+  font-size: 30px Arial;
+  text-align: center;
+}
+
+#texto1 {
+  color: white;
+  text-align: left 10px Arial;
+  margin: 1%;
+}
